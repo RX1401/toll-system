@@ -1,1 +1,2 @@
 # toll-system
+The Arduino-Based Toll System uses an ultrasonic sensor to detect an approaching vehicle and a servo motor to control the barrier. When a vehicle is detected within a certain range, the Arduino signals the servo motor to lift the barrier, allowing passage. After a short delay, the barrier automatically returns to its original position. This system provides a basic automated toll or access control solution
